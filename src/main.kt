@@ -7,4 +7,5 @@ fun main() {
     println("회원가입 입력 처리 구현")
     println("홈 구현")
     println("회원가입")
+    println("로그인")
 }
